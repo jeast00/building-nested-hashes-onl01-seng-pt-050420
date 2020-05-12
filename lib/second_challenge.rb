@@ -8,8 +8,7 @@ def second_challenge
       :hero => {},
       :hero_friends => {}
       },
-      # without the arrow
-    capulet: {
+    :capulet => {
       #your key/value pairs here!
         patriarch: {},
         matriarch: {},

@@ -11,6 +11,10 @@ def second_challenge
       # without the arrow
     capulet: {
       #your key/value pairs here!
+        patriarch: {},
+        matriarch: {},
+        hero: {},
+        :hero_friends:{}
       }}
 
 
